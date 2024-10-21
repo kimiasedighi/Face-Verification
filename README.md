@@ -13,6 +13,7 @@ This repository contains an implementation of a **Siamese Neural Network** for i
 - [Testing](#testing)
 - [Results](#results)
 - [References](#references)
+- [Google Colab Link](#google-colab-link)
 
 ## Overview
 
@@ -112,3 +113,7 @@ for i in range(10):
 This project is based on the tutorial and dataset provided by DataHacker:
 
 - [Siamese Neural Network Tutorial](https://github.com/maticvl/dataHacker)
+
+## Google Colab Link
+
+You can access the complete project and run it directly on Google Colab: [Face Verification Colab](https://colab.research.google.com/drive/192tPiKTUiqOLkTTEgLPiYv4YCTlZGUY4?usp=sharing#scrollTo=zH4soRwj48yT)
